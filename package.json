@@ -4,14 +4,12 @@
   "description": "",
   "main": "test.js",
   "scripts": {
-  "test": "jest"
-}
-,
+    "test": "jest"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
   }
-
 }
